@@ -1,5 +1,6 @@
 # Converter-design-and-simulation
-
+## Name: Sri Vignesh G
+## Reg No: 212223040204
 # Aim
 To design and simulate AC to DC converter & DC voltage regulator using proteus.
 
